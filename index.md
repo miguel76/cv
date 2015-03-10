@@ -1,3 +1,8 @@
+---
+title: Résumé of Miguel Ceriani
+layout: page
+---
+
 Miguel Ceriani, PhD
 ===================
 (_Michele Geremia Ceriani_ in italian documents)  
