@@ -7,7 +7,7 @@ Miguel Ceriani, PhD
 ===================
 (_Michele Geremia Ceriani_ in italian documents)  
 Department of Computer Science  
-"Sapienza" - University of Rome  
+Sapienza, University of Rome  
 Piazzale Aldo Moro 5, 00185 Roma  
 ceriani@di.uniroma1.it
 
@@ -31,8 +31,8 @@ Citizenship: Italian-Argentinian
 
 Education
 ---------
-* Master's Degree in Computer Science, "Sapienza" - University of Rome, 2005
-* PhD in Computer Science, "Sapienza" - University of Rome, 2015
+* Master's Degree in Computer Science, Sapienza, University of Rome, 2005
+* PhD in Computer Science, Sapienza, University of Rome, 2015
 
 Research Areas
 --------------
@@ -43,7 +43,8 @@ Research Areas
 
 Active Projects
 ---------------
-* [SWOWS](http://swows.org/), platform for building linked data interactive apps through a declarative paradigm
+* [SWOWS](http://swows.org/), platform for building Linked Data interactive apps through a declarative paradigm
+* [SparqlBlocks](http://miguel76.github.io/SparqlBlocks/), using Block Programming to build SPARQL queries
 * InTOUCH, co-design of a collaborative system supporting digital storytelling in recreational centres for older adults
 
 Technical Skills
@@ -76,15 +77,16 @@ Language Skills
 
 Professional Experience
 -----------------------
-* PhD Student in Computer Science, "Sapienza" - University of Rome, 2010-1015, completed
+* PostDoc Fellow in Computer Science, Sapienza, University of Rome, 2015-now
+* PhD Student in Computer Science, Sapienza, University of Rome, 2010-1015, completed
 * Webmaster - System Analyst, AIAB (italian NGO), 2009-2010
-* PhD Student in Bioinformatics, "Sapienza" - University of Rome, 2005-2008, withdrew
+* PhD Student in Bioinformatics, Sapienza, University of Rome, 2005-2008, withdrew
 * Programmer Analyst, Niuma srl - Roma (Italy), 2002-2005
 * Programmer,  CGI S.p.A - Roma (Italy), 2001  
 
 Teaching Experience
 -------------------
-* Teaching Assistant, "Sapienza" - University of Rome, 2011-2012
+* Teaching Assistant, Sapienza, University of Rome, 2011-2012
 	* Databases (basic course)
 	* Introduction to Programming
 	* Digital Systems Design
