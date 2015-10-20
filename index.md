@@ -41,7 +41,7 @@ Research Areas
 * Collaboration and Human Computer Interaction
 * Natural/Multi-Modal/Multi-Device User Interfaces
 
-Active Projects
+Main Active Projects
 ---------------
 * [SWOWS](http://swows.org/), platform for building Linked Data interactive apps through a declarative paradigm
 * [SparqlBlocks](http://miguel76.github.io/SparqlBlocks/), using Block Programming to build SPARQL queries
@@ -101,6 +101,12 @@ Teaching Experience
 
 Publications
 ------------
+* [__SPARQL Playground: A Block Programming Tool to Experiment with SPARQL__](http://dx.doi.org/10.1007/978-3-319-16313-0_5)  
+  _P Bottoni, M Ceriani_
+  VOILA@ISWC 2015: 103
+* [__Linked Data Queries as Jigsaw Puzzles: a Visual Interface for SPARQL Based on Blockly Library__](http://ceur-ws.org/Vol-1456/paper12.pdf)  
+  _P Bottoni, M Ceriani_
+  CHItaly 2015: 86-89
 * [__Towards an Ontology-Based Generic Pipeline Editor__](http://dx.doi.org/10.1007/978-3-319-16313-0_5)  
   _P Bottoni, M Ceriani_
   DNIS 2015: 56-73
