@@ -101,10 +101,10 @@ Teaching Experience
 
 Publications
 ------------
-* [__SPARQL Playground: A Block Programming Tool to Experiment with SPARQL__](http://dx.doi.org/10.1007/978-3-319-16313-0_5)  
+* [__SPARQL Playground: A Block Programming Tool to Experiment with SPARQL__](http://ceur-ws.org/Vol-1456/paper12.pdf)  
   _P Bottoni, M Ceriani_
   VOILA@ISWC 2015: 103
-* [__Linked Data Queries as Jigsaw Puzzles: a Visual Interface for SPARQL Based on Blockly Library__](http://ceur-ws.org/Vol-1456/paper12.pdf)  
+* [__Linked Data Queries as Jigsaw Puzzles: a Visual Interface for SPARQL Based on Blockly Library__](http://doi.acm.org/10.1145/2808435.2808467)  
   _P Bottoni, M Ceriani_
   CHItaly 2015: 86-89
 * [__Towards an Ontology-Based Generic Pipeline Editor__](http://dx.doi.org/10.1007/978-3-319-16313-0_5)  
