@@ -116,9 +116,6 @@ Publications
 * [__Collaborative multimedia content creation and sharing by older adults__](http://doi.acm.org/10.1145/2598153.2600029)  
   _M Ceriani, P Bottoni, S Ventura, A Talamo_
   AVI 2014: 345-346
-* __SWOWS and Dynamic Queries to build Browsing Applications on Linked Data__  
-  _P Bottoni, M Ceriani_
-  DMS 2014: 121-127
 * [__A Dataflow Platform for In-silico Experiments Based on Linked Data__](http://dx.doi.org/10.1007/978-3-319-05693-7_7)  
   _P Bottoni, M Ceriani_
   DNIS 2014: 112-131
