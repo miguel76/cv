@@ -11,15 +11,15 @@ ceriani@di.uniroma1.it
 
 Table of Contents
 -----------------
-[Datos Biográficos](#biographical-data)  
-[Educación](#education)  
-[Experiencia de Docencia](#teaching-experience)  
-[Areas de Investigación](#research-areas)  
-[Principales Proyectos](#active-projects)  
-[Conocimientos Técnicos](#technical-skills)  
-[Idiomas](#language-skills)  
-[Experiencia Profesionál](#professional-experience)  
-[Publicaciones](#publications)  
+[Datos Biográficos](#datos-biogrficos)  
+[Educación](#educacin)  
+[Experiencia de Docencia](#experiencia-de-docencia)  
+[Areas de Investigación](#areas-de-investigacin)  
+[Principales Proyectos](#principales-proyectos)  
+[Conocimientos Técnicos](#conocimientos-tcnicos)  
+[Idiomas](#idiomas)  
+[Experiencia Profesionál](#experiencia-profesionl)  
+[Publicaciones](#publicaciones)  
 
 Datos Biográficos
 -----------------
