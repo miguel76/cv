@@ -6,10 +6,10 @@ layout: page
 Dr. Miguel Ceriani
 ===================
 (_Michele Geremia Ceriani_ en los documentos italianos)  
-miguel.ceriani@gmail.com
+miguel.ceriani@gmail.com  
 ceriani@di.uniroma1.it
 
-Table of Contents
+Índice
 -----------------
 [Datos Biográficos](#datos-biogrficos)  
 [Educación](#educacin)  
@@ -29,7 +29,7 @@ Ciudadanía: Argentina y Italiana
 
 Educación
 ---------
-* Master's Degree en Informática, Sapienza, Universidad de Roma, 2005
+* Licenciatura en Informática, Sapienza, Universidad de Roma, 2005
 * Doctorado en Informática, Sapienza, Universidad de Roma, 2015
 
 Experiencia de Docencia
