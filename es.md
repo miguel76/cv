@@ -3,7 +3,7 @@ title: Curriculum Vitae de Miguel Ceriani
 layout: page
 ---
 
-Dr. Miguel Ceriani
+Dr. Miguel Jeremias Ceriani
 ===================
 (_Michele Geremia Ceriani_ en los documentos italianos)  
 miguel.ceriani@gmail.com  
@@ -24,7 +24,7 @@ ceriani@di.uniroma1.it
 Datos Biográficos
 -----------------
 Fecha de Nacimiento: 4/5/1976  
-Lugar de Nacimiento: Rosario (provincia de Santa Fe)  
+Lugar de Nacimiento: Rosario (provincia de Santa Fe, Argentina)  
 Ciudadanía: Argentina y Italiana
 
 Educación
