@@ -25,6 +25,8 @@ layout: page
 	</div><!-- /.container-fluid -->
 </nav>
 
+<div class="container" id="content">
+
 Miguel Ceriani, PhD
 ===================
 (_Michele Geremia Ceriani_ in italian documents)  
@@ -153,3 +155,5 @@ Publications
 * [__Assessment of predictions in the model quality assessment category__](http://dx.doi.org/10.1002/prot.21669)  
   _D Cozzetto, A Kryshtafovych, M Ceriani, A Tramontano_
   Proteins: Structure, Function, and Bioinformatics 69 (S8), 175-183, Wiley, 2007
+
+</div>
