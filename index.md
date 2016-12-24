@@ -12,8 +12,8 @@ layout: page
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
-	<nav class="navbar navbar-default">
-		<div class="container-fluid">
+<nav class="navbar navbar-default">
+	<div class="container-fluid">
 
 			<!-- Collect the nav links, forms, and other content for toggling -->
 			<!-- <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1"> -->
@@ -22,8 +22,8 @@ layout: page
 					<li><a href="#">Link</a></li>
 				</ul>
 			<!-- </div><!-- /.navbar-collapse --> -->
-		</div><!-- /.container-fluid -->
-	</nav>
+	</div><!-- /.container-fluid -->
+</nav>
 
 Miguel Ceriani, PhD
 ===================
